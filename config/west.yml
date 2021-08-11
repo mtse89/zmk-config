@@ -5,7 +5,7 @@ manifest:
   projects:
     - name: zmk
       remote: kylemccreery
-      revision: main
+      revision: murphpad
       import: app/west.yml
   self:
     path: config
